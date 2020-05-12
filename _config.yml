@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko_kr"
-title                    : "Site Title"
+title                    : "HaYeon!"
 title_separator          : "-"
-subtitle                 : "HaYeon"
-name                     : "HaYeon!"
+subtitle                 : ""
+name                     : ""
 description              : ""
 url                      : "https://hayeon123.github.io"
 baseurl                  : ""
@@ -96,7 +96,7 @@ author:
   name             : "Ha-Yeon!"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "Korea"
+  location         : ""
   email            :
   links:
     - label: "Email"
